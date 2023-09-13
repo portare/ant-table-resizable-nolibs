@@ -1,0 +1,1 @@
+export { ResizableTable } from './Table';
